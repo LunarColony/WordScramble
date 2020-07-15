@@ -6,9 +6,9 @@ Another simple game were a user creates viable words from a selected word. This 
 
 
 ## Project plan and journey
-Like previous projects/apps I've created this project is no different than in terms of setting out a learning object and plan. The making of this simple app introduced `List`, `onAppear()`, `Bundle`, `fatalError()` and more in addition to strengthening my understanding of `@State`, `Alert` and `Navigationview`.
+Like previous projects/apps I've created this project is no different in terms of setting out a learning object and plan. The making of this simple app introduced `List`, `onAppear()`, `Bundle`, `fatalError()` and more in addition to strengthening my understanding of `@State`, `Alert` and `Navigationview`.
 
-For example, `List` played an important role in the UI because it allows you combine and mix dynamic rows with static row just like the list present in the bluetooth page in the settings app. Understanding how `Bundle`works will enable me to understand how Apple bundles frameworks, files, assets and plug-ins into well defined subcategories which can be accessed using url's similar to url's found in a browser, these url's behave more like a file path rather than information containing a domain name.
+For example, `List` played an important role in the UI because it allows you combine and mix dynamic rows with static row just like the list present in the bluetooth page in the settings app. Understanding how `Bundle`works will enable me to appreciate how Apple bundles frameworks, files, assets and plug-ins into well defined subcategories which can be accessed using url's similar to url's found in a browser, these url's behave more like a file path rather than information containing a domain name.
 
 `fatalError` is a function provided by Swift that allows an application to catch catastrophic failures earlier on or when an application enters an unknown state or unexpected state. Using `fatalError` in this application meant that whenever the `start.txt` file doesn't load for whatever reason, the app can be killed immediately in a manner that is safe and elegant while providing clear information to the what went wrong.
 
