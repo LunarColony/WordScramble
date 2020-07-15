@@ -18,4 +18,4 @@ For example, `List` played an important role in the UI because it allows you com
 - Developing a better grasp of `NavigationView`, `@State` and `Alert`
 
 ## Credit
-Special thanks to Paul at [Hacking with Swift](https://www.hackingwithswift.com/100/swiftui
+Special thanks to Paul at [Hacking with Swift](https://www.hackingwithswift.com/100/swiftui)
