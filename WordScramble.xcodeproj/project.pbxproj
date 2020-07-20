@@ -13,6 +13,7 @@
 		E913D37B24BF171700A4A3DC /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = E913D37A24BF171700A4A3DC /* Assets.xcassets */; };
 		E913D37E24BF171700A4A3DC /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = E913D37D24BF171700A4A3DC /* Preview Assets.xcassets */; };
 		E913D38124BF171700A4A3DC /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = E913D37F24BF171700A4A3DC /* LaunchScreen.storyboard */; };
+		E913D38924BF2C9100A4A3DC /* start.txt in Resources */ = {isa = PBXBuildFile; fileRef = E913D38824BF2C9100A4A3DC /* start.txt */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		E913D37D24BF171700A4A3DC /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
 		E913D38024BF171700A4A3DC /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		E913D38224BF171700A4A3DC /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		E913D38824BF2C9100A4A3DC /* start.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; name = start.txt; path = ../../../Desktop/start.txt; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -59,6 +61,7 @@
 				E913D37424BF171600A4A3DC /* AppDelegate.swift */,
 				E913D37624BF171600A4A3DC /* SceneDelegate.swift */,
 				E913D37824BF171600A4A3DC /* ContentView.swift */,
+				E913D38824BF2C9100A4A3DC /* start.txt */,
 				E913D37A24BF171700A4A3DC /* Assets.xcassets */,
 				E913D37F24BF171700A4A3DC /* LaunchScreen.storyboard */,
 				E913D38224BF171700A4A3DC /* Info.plist */,
@@ -134,6 +137,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				E913D38124BF171700A4A3DC /* LaunchScreen.storyboard in Resources */,
+				E913D38924BF2C9100A4A3DC /* start.txt in Resources */,
 				E913D37E24BF171700A4A3DC /* Preview Assets.xcassets in Resources */,
 				E913D37B24BF171700A4A3DC /* Assets.xcassets in Resources */,
 			);
