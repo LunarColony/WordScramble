@@ -10,7 +10,7 @@ Like previous projects/apps I've created this project is no different in terms o
 
 For example, `List` played an important role in the UI because it allows you combine and mix dynamic rows with static row just like the list present in the bluetooth page in the settings app. Understanding how `Bundle` works will enable me to appreciate how Apple groups frameworks, files, assets and plug-ins into well defined subcategories which can be accessed using url's similar to url's found in a browser, these url's behave more like a file path rather than information containing a domain name.
 
-`fatalError` is a function provided by Swift that allows an application to catch catastrophic failures earlier on or when an application enters an unknown state or unexpected state. Using `fatalError` in this application meant that whenever the `start.txt` file doesn't load for whatever reason, the app can be killed immediately in a manner that is safe and elegant while providing clear information to the what went wrong.
+`fatalError` is a function provided by Swift that allows an application to catch catastrophic failures during compile time. A fatal error occurs when an application enters an unknown state or unexpected state. Using `fatalError` in this application meant that whenever the `start.txt` file doesn't load for whatever reason, the app can be killed immediately in a manner that is safe and elegant while providing clear information to the what went wrong.
 
 ## Techniques learned
 - Using `List`
